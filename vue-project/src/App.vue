@@ -7,7 +7,7 @@ import CardList from './components/CardList.vue'
 import axios from 'axios'
 import Drawer from './components/Drawer.vue';
 
-console.log('222')
+console.log('333')
 
 const items = ref([]) //Массив,который хранит все объекты из вне
 const cart = ref([])
